@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font: 100% "Mukta", sans-serif;
+  background-color: #efd510;
+  color: #2c2d34;
+}
+
+#profile-picture {
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 5em;
+}
+
+.github {
+  border: 1px solid #e94822;
+  width: 700px;
+  margin-left: 200px;
+  background-color: #fffdf9;
+  padding: 1em;
+}
+
+table {
+  margin: 0 auto 0 auto;
+}
+/*# sourceMappingURL=style.css.map */
